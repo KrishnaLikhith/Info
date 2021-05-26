@@ -1,0 +1,65 @@
+    body {
+        background: white;
+    }
+    
+    #hospital {
+        padding: 10px 20px;
+        background-color: #1E88E5;
+        border: 0px;
+        color: #fff;
+        width: 150px;
+    }
+    
+    #hospital:hover {
+        background-color: #fff;
+        border: 1px solid #1E88E5;
+        color: #1E88E5;
+    }
+    
+    #police {
+        padding: 10px 20px;
+        background-color: #f00000;
+        border: 0px;
+        color: #fff;
+        width: 150px;
+    }
+    
+    #police:hover {
+        background-color: #fff;
+        border: 1px solid #ff0000;
+        color: #ff0000;
+    }
+    
+    #fire {
+        padding: 10px 20px;
+        background-color: green;
+        border: 0px;
+        color: #fff;
+        width: 150px;
+    }
+    
+    #fire:hover {
+        background-color: #fff;
+        border: 1px solid green;
+        color: green;
+    }
+    
+    #moving {
+        font-family: 'Pattaya', sans-serif;
+        ;
+        color: #EF6F6C;
+    }
+    
+    #auto {
+        padding: 10px 20px;
+        background-color: rgb(255, 145, 0);
+        border: 0px;
+        color: #fff;
+        width: 150px;
+    }
+    
+    #auto:hover {
+        background-color: #fff;
+        border: 1px solid rgb(255, 208, 0);
+        color: rgb(255, 166, 0);
+    }
